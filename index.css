@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     text-align: center;
     background-color: white;
-    background-image: url(fondo.jpg);
+    background-image: url(fondo2.jpg);
     background-size: 100%;
     display: flex;
     background-position-y: 15%;
@@ -46,7 +46,6 @@ input {
     }
     body {
         position: relative;
-        left: ;
         background-size: 1200px;
         background-position: 85%;
         background-position-y: 1%;
